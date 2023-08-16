@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    background-color: rgb(146, 150, 153);
+}
+
+button{
+    background-color: blue;
+    color: white;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: none;
+    border: none;
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+.head{
+    font-size: 50px;
+    display: inline;
+}
+
+
+.count{
+    display: inline;
+    font-size: 50px;
+}
+
+.btn{
+    display: flex;
+    
+}
